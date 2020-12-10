@@ -14,7 +14,8 @@
 ```
 # 1. Install esx_menu_list
 # 2. Drag it into your resources
-# 3. Add "start esx_menu_list" to you server.cfg
+# 3. Insert all sqls to your database
+# 4. Add "start esx_menu_list" to you server.cfg
 
-# 4. Install all Requirements
+# 5. Install all Requirements
 ```
